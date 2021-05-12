@@ -1,17 +1,29 @@
-### Hi there 👋, I am Davide S. aka JarvisScienz!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Davide S. aka JarvisScienz!
+
+<hr>
 
 An analyst and software developer specializing in Java, Angular, JS technologies. 🌱 I'm currently learning Python.
 
-⚡ I like play to CTF, you can find some personal walkthrough about some HTB's machine. ⚡
+⚡ I like playing CTF, you can find some personal walkthrough about some HTB's machine.
+[ ![JarvisD](https://www.hackthebox.eu/badge/image/295584)](https://www.hackthebox.eu/home/users/profile/295584)
 
-HTB profile: https://app.hackthebox.eu/profile/295584
+🔭 I’m currently working on Dedalus S.P.A. as Software Developer Specialist. Main project: Pharmoduct, an automatic compaunding system for antiblastic drug. 
 
-🔭 I’m currently working on Dedalus S.P.A. as Software Developer Specialist. Main project: Pharmoduct, an automatic compaunding system for antiblastic drug. 🔭
+💻 Personal project: TrackFit. Portal for nutritionists and dieticians, to improve customer support and management
 
+<hr>
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/> 
+
+<hr>
+
+📘 Technical readings
+(Accept every suggestion for new readings 👍)
+-Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
+-Clean architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
+-The pragmatic programmer: your journey to mastery - Dave Thomas, Andy Hunt, Saron Yitbarek
 
 <!--
 **JarvisScienz/JarvisScienz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
