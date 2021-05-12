@@ -2,7 +2,7 @@
 
 <hr>
 
-An analyst and software developer specializing in Java, Angular, JS technologies. 🌱 I'm currently learning Python. <br>
+An analyst and software developer specializing in Java, Angular, JS, PHP and Python technologies.<br>
 (Professional experience with the technologies listed in the <b>toolbox</b> below.)
 
 
