@@ -3,7 +3,7 @@
 <hr>
 
 An analyst and software developer specializing in Java, Angular, JS, PHP and Python technologies.<br>
-(Professional experience with the technologies listed in the <b>toolbox</b> below.)
+(Professional experience with the technologies listed in the <b><a href="#toolbox">toolbox</a></b> below.)
 
 
 ⚡ I like playing CTF, you can find some personal walkthrough about some HTB's machine.
@@ -19,7 +19,7 @@ An analyst and software developer specializing in Java, Angular, JS, PHP and Pyt
 <hr>
 
 ### 🧰 Toolbox
-
+<span id="toolbox"></span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/> 
 
 <hr>
