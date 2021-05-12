@@ -1,6 +1,18 @@
-### Hi there 👋, I am Davide S.
+### Hi there 👋, I am Davide S. aka JarvisScienz!
 
-<your_bio>
+An analyst and software developer specializing in Java, Angular, JS technologies. 🌱 I'm currently learning Python.
+
+⚡ I like play to CTF, you can find some personal walkthrough about some HTB's machine. ⚡
+
+HTB profile: https://app.hackthebox.eu/profile/295584
+
+🔭 I’m currently working on Dedalus S.P.A. as Software Developer Specialist. Main project: Pharmoduct, an automatic compaunding system for antiblastic drug. 🔭
+
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Angular Logo" width="50" height="50"/> 
+
 <!--
 **JarvisScienz/JarvisScienz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
