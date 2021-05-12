@@ -11,7 +11,7 @@ An analyst and software developer specializing in Java, Angular, JS, PHP and Pyt
 [ ![JarvisD](https://www.hackthebox.eu/badge/image/295584)](https://www.hackthebox.eu/home/users/profile/295584)
 
 
-🔭 I’m currently working on <a href="https://www.dedalus.eu/" target="_blank" rel="noopener noreferrer">Dedalus S.P.A.</a> as Software Developer Specialist. Main project: <b>Pharmoduct</b>, an automatic compaunding system for antiblastic drug. 
+🔭 I’m currently working on <a href="https://www.dedalus.eu/">Dedalus S.P.A.</a> as Software Developer Specialist. Main project: <b>Pharmoduct</b>, an automatic compaunding system for antiblastic drug. 
 
 
 💻 Personal project: <b>TrackFit</b>. Portal for nutritionists and dieticians, to improve customer support and management
