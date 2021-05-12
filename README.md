@@ -2,12 +2,17 @@
 
 <hr>
 
-An analyst and software developer specializing in Java, Angular, JS technologies. 🌱 I'm currently learning Python.
+An analyst and software developer specializing in Java, Angular, JS technologies. 🌱 I'm currently learning Python. <br>
+(Professional experience with the technologies listed in the <b>toolbox</b> below.)
+
 
 ⚡ I like playing CTF, you can find some personal walkthrough about some HTB's machine.
+
 [ ![JarvisD](https://www.hackthebox.eu/badge/image/295584)](https://www.hackthebox.eu/home/users/profile/295584)
 
+
 🔭 I’m currently working on Dedalus S.P.A. as Software Developer Specialist. Main project: Pharmoduct, an automatic compaunding system for antiblastic drug. 
+
 
 💻 Personal project: TrackFit. Portal for nutritionists and dieticians, to improve customer support and management
 
@@ -19,12 +24,22 @@ An analyst and software developer specializing in Java, Angular, JS technologies
 
 <hr>
 
-📘 Technical readings
-(Accept every suggestion for new readings 👍)
--Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin
--Clean architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
--The pragmatic programmer: your journey to mastery - Dave Thomas, Andy Hunt, Saron Yitbarek
+📘 Technical readings <br>
+(Accept every suggestion for new readings 👍) <br>
+<ul>
+  <li>Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin</li>
+  <li>Clean architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin</li>
+  <li>The pragmatic programmer: your journey to mastery - Dave Thomas, Andy Hunt, Saron Yitbarek</li>
+</ul>
 
+
+<hr>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisScienz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarvisScienz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JarvisScienz/JarvisScienz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
