@@ -14,7 +14,7 @@ An analyst and software developer specializing in Java, Angular, JS, PHP and Pyt
 🔭 I’m currently working on <a href="https://www.dedalus.eu/">Dedalus S.P.A.</a> as Software Developer Specialist. Main project: <b>Pharmoduct</b>, an automatic compaunding system for antiblastic drug. 
 
 
-💻 Personal project: <b>TrackFit</b>. Portal for nutritionists and dieticians, to improve customer support and management
+💻 Personal project: <b><a href="https://www.track4fit.com" target="_blank">TrackFit</a></b>. Portal for nutritionists, dieticians and personal trainer, to improve customer support and management
 
 <hr>
 <span id="toolbox"></span>
