@@ -2,7 +2,7 @@
 
 <hr>
 
-An analyst and software developer specializing in Java, Angular, JS, PHP and Python technologies.<br>
+An analyst and software developer specializing in Java, JS-Framework. Sometimes I like to play with PHP and Python technologies.<br>
 (Professional experience with the technologies listed in the <b><a href="#toolbox">toolbox</a></b> below.)
 
 
@@ -16,13 +16,19 @@ An analyst and software developer specializing in Java, Angular, JS, PHP and Pyt
 
 💻 Personal project: <b><a href="https://www.track4fit.com" target="_blank">TrackFit</a></b>. Portal for nutritionists, dieticians and personal trainer, to improve customer support and management
 
+📖 AWS Cloud Practitioner
+
 <hr>
 <span id="toolbox"></span>
 
 ### 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Node Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Node Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Node Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Node Logo" width="50" height="50"/> 
 
 <hr>
 
@@ -32,6 +38,21 @@ An analyst and software developer specializing in Java, Angular, JS, PHP and Pyt
   <li>Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin</li>
   <li>Clean architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin</li>
   <li>The pragmatic programmer: your journey to mastery - Dave Thomas, Andy Hunt, Saron Yitbarek</li>
+  <li>A philosophy of software design - John Ousterhout</li>
+  <li>Accelerate: Costruire e scalare organizzazioni tecnologiche ad alte prestazioni - Nicole Forsgren, Jez Humble, Gene Kim</li>
+  <li>Building Microservices: Designing Fine-Grained Systems - Sam Newman </li>
+  <li>Code Simplicity - Max Kanat-Alexander</li>
+  <li>INSPIRED; How to Create Tech Products Customers Love - Marty Cagan</li>
+  <li>Lean software development - Addison Wesley</li>
+  <li>Mastering Node.js - Sandro Pasquali</li>
+  <li>Refactoring, Improving the Design of Existing Code - Martin Fowler</li>
+  <li>REST in Practice: Hypermedia and Systems Architecture - Jim Webber Savas Parastatidis, Ian Robinson</li>
+  <li>Rivoluzionario per caso. Come ho creato Linux - Linus Torvalds</li>
+  <li>Software architecture in Practice - Len Bass & Paul Clements</li>
+  <li>The Mythical Man-Month -  Fred Brooks</li>
+  <li>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, George Spafford</li>
+  <li>The pragmatic programmer - Andy Hunt e Dave Thomas</li>
+  <li>The software architect elevator - Gregor Hohpe</li>
 </ul>
 
 
